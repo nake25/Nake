@@ -25,4 +25,4 @@ A passionate Computer Engineering student focused on building automated systems,
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-- 📧 Email: nakeking2548.com
+- 📧 Email: nakeking@2548.com
