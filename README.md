@@ -1,5 +1,5 @@
 # Nake
-# Hi there, I'm Tibet! 👋
+# Hi there, I'm Tibate! 👋
 
 A passionate Computer Engineering student focused on building automated systems, IoT solutions, and exploring hardware-software integrations. I love turning ideas into real-world working hardware!
 
@@ -25,4 +25,4 @@ A passionate Computer Engineering student focused on building automated systems,
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-- 📧 Email: your.email@example.com
+- 📧 Email: nakeking2548.com
